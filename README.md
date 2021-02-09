@@ -1,2 +1,8 @@
-# 7grausphp
-Backend developer role task
+# Backend developer role task
+This is my approach to the technical task.
+
+```
+cd 7grausphp
+composer install 
+php -S localhost:8000
+```
