@@ -2,7 +2,7 @@
 
 namespace App;
 
-class Shape {
+abstract class Shape {
     public $name;
     protected $width, $length;
     private $id;
