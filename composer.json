@@ -1,0 +1,12 @@
+{
+    "name":"euricoferreira/7grausphp",
+    "description":"7Graus task",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "require": {
+        "php": "^7.0"
+    }
+}
